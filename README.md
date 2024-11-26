@@ -36,4 +36,4 @@ __Skills Demonstrated__
 
 __Author__
 
-Tenzin Chonyi - [LinkedIn Profile](https://www.linkedin.com/in/tenzin-chonyi-871863252)
+Tenzin Chonyi - [LinkedIn](https://www.linkedin.com/in/tenzin-chonyi-871863252)
