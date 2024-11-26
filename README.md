@@ -35,4 +35,4 @@ The Hangman Game is a classic word-guessing game implemented in Python. It rando
 
 **Author**
 
-**Tenzin Chonyi** - [LinkedIn](https://www.linkedin.com/in/tenzin-chonyi-871863252)
+- **Tenzin Chonyi** - [LinkedIn](https://www.linkedin.com/in/tenzin-chonyi-871863252)
