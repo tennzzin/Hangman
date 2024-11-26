@@ -13,7 +13,7 @@ The Hangman Game is a classic word-guessing game implemented in Python. It rando
 
 **How to Play**
 1. Clone the repository:
-   - `git clone https://github.com/yourusername/hangman-game.git`
+   - `git clone https://github.com/tennzzin/hangman-game.git`
    - `cd hangman-game`
 2. Run the game:
    - `python hangman.py`
