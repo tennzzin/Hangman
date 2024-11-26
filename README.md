@@ -35,4 +35,5 @@ __Skills Demonstrated__
 - Game Logic: Designed intuitive and user-friendly mechanics with clear win/loss criteria.
 
 __Author__
-**Tenzin Chonyi** - [LinkedIn Profile](https://www.linkedin.com/in/tenzin-chonyi-871863252)
+
+Tenzin Chonyi - [LinkedIn Profile](https://www.linkedin.com/in/tenzin-chonyi-871863252)
