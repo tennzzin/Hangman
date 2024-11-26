@@ -18,7 +18,7 @@ __How to Play__
 - Run the game:
   - python hangman.py
   
-__Follow the on-screen prompts:__
+__Follow the on-screen prompts__
 - Guess one letter at a time.
 - Avoid running out of attempts
 
