@@ -1,6 +1,7 @@
 __Hangman Game__
 
 __Overview__
+
 This project is a classic Hangman game implemented in Python. It randomly selects a word from a large online wordlist, challenging players to guess the letters before running out of attempts. The game dynamically updates the visual representation of the hangman as incorrect guesses are made.
 
 __Features__
